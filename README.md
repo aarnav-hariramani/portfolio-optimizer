@@ -40,5 +40,10 @@ pip install pandas numpy matplotlib yfinance PyPortfolioOpt
 
 ### 2. Launch Jupyter Notebook and Run the Script
 
+## Customization:
+
+- Adjust the risk aversion level (7.5 by default) to find the right balance between risk and return.
+- Modify the initial investment amount if you plan to allocate a different capital size.
+- Dummy (test) stock data is provided but you can use historical stock data from yfinance by specifying stock tickers.
 
 
