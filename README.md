@@ -1,12 +1,12 @@
 # portfolio-optimizer
 
-Portfolio Optimization with Historical Stock Data
+# **Portfolio Optimization with Historical Stock Data**
 
 Overview
 
 This project optimizes a stock portfolio using historical stock price data. It leverages financial mathematics and statistical modeling to construct a well-balanced investment portfolio that maximizes returns while managing risk.
 
-How It Works
+How It Works:
 
 1. Data Preparation
 The script reads a CSV file containing historical stock prices and loads it into a Pandas DataFrame.
