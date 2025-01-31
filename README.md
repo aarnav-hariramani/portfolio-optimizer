@@ -39,6 +39,9 @@ pip install pandas numpy matplotlib yfinance PyPortfolioOpt
 ```
 
 ### 2. Launch Jupyter Notebook and Run the Script
+```bash
+jupyter notebook
+```
 
 ## Customization:
 
