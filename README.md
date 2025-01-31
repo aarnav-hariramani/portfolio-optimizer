@@ -1,6 +1,5 @@
 # **Portfolio Optimization with Historical Stock Data**
 
-## Overview:
 This project optimizes a stock portfolio using historical stock price data. It leverages financial mathematics and statistical modeling to construct a well-balanced investment portfolio that maximizes returns while managing risk.
 
 ## How It Works:
@@ -22,9 +21,13 @@ This project optimizes a stock portfolio using historical stock price data. It l
 ## Key Features:
 
 ✅ Uses real historical stock data for a realistic portfolio construction.
+
 ✅ Employs advanced statistical techniques (Ledoit-Wolf shrinkage, covariance estimation).
+
 ✅ Optimizes portfolio allocation using the Efficient Frontier.
+
 ✅ Balances risk and return through L2 regularization and quadratic utility.
+
 ✅ Calculates exact share allocations for practical implementation.
 
 ## Getting Started:
